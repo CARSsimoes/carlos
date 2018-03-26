@@ -8,7 +8,9 @@
             "email": "bia@gmail.com",
             "telemovel": 123456789,
             "data_nasc":"1994-02-02",
-            "genero": "F"
+            "genero": "F",
+            "username": "ritarita",
+            "pass_chave": "123456"
         },
         {
             "nome":"Bia",
@@ -18,7 +20,9 @@
             "email": "bia@gmail.com",
             "telemovel": 123456789,
             "data_nasc":"1993-02-02",
-            "genero": "F"
+            "genero": "F",
+            "username": "biabia",
+            "pass_chave": "123456"
         },
         {
             "nome":"Carlos",
@@ -28,7 +32,9 @@
             "email": "bia@gmail.com",
             "telemovel": 123456789,
             "data_nasc":"1991-02-02",
-            "genero": "M"
+            "genero": "M",
+            "username": "carsandre",
+            "pass_chave": "123456"
         },
         {
             "nome":"Vicente",
@@ -38,26 +44,8 @@
             "email": "bia@gmail.com",
             "telemovel": 123456789,
             "data_nasc":"1990-02-02",
-            "genero": "M"
-        }
-    ],
-    "registo":[
-        {
-            "username": "carsandre",
-            "pass_chave": "123456"
-        },
-        {
-            "username": "biabia",
-            "pass_chave": "123456"
-        },
-        {
+            "genero": "M",
             "username": "vicevice",
-            "pass_chave": "123456"
-        },
-        {
-                
-            "username": "ritarita",
             "pass_chave": "123456"
         }
     ]
-}

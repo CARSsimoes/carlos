@@ -52,7 +52,9 @@
             "username": "vicevice",
             "pass_chave": "123456"
         }
-        ]
+       ]
+}
+{
     "zonas":[
         {
             "cod_zona":1,

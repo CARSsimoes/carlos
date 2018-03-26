@@ -56,10 +56,10 @@
 
     "zonas":[
         {
-            "id": 1,
-            "cod_zona":1,
-            "num_ruas":10,
-            "preco":100
+            "id": "zona1",
+            "cod_zona": "zona1",
+            "num_ruas": "zona1",
+            "preco": "zona1"
         }
     ]
 }

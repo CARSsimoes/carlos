@@ -1,0 +1,63 @@
+{
+    "clientes":[
+        {
+            "nome":"Ana",
+            "morada":"Rua das Malucas",
+            "CC": 12345678,
+            "NIF": 123456789,
+            "email": "bia@gmail.com",
+            "telemovel": 123456789,
+            "data_nasc":"1994-02-02",
+            "genero": "F"
+        },
+        {
+            "nome":"Bia",
+            "morada":"Rua das Santas",
+            "CC": 12345678,
+            "NIF": 123456789,
+            "email": "bia@gmail.com",
+            "telemovel": 123456789,
+            "data_nasc":"1993-02-02",
+            "genero": "F"
+        },
+        {
+            "nome":"Carlos",
+            "morada":"Rua dos Machos",
+            "CC": 12345678,
+            "NIF": 123456789,
+            "email": "bia@gmail.com",
+            "telemovel": 123456789,
+            "data_nasc":"1991-02-02",
+            "genero": "M"
+        },
+        {
+            "nome":"Vicente",
+            "morada":"Rua dos Ateus",
+            "CC": 12345678,
+            "NIF": 123456789,
+            "email": "bia@gmail.com",
+            "telemovel": 123456789,
+            "data_nasc":"1990-02-02",
+            "genero": "M"
+        }
+    ],
+    "registo":[
+        {
+            "username": "carsandre",
+            "pass_chave": "123456"
+        },
+        {
+            "username": "biabia",
+            "pass_chave": "123456"
+        },
+        {
+            "username": "vicevice",
+            "pass_chave": "123456"
+        },
+        {
+                
+            "username": "ritarita",
+            "pass_chave": "123456"
+        }
+    ]
+}

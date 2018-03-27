@@ -1,7 +1,7 @@
 {
     "clientes":[
         {
-            "id": 1,
+            "id": 0,
             "nome":"Ana",
             "morada":"Rua das Malucas",
             "CC": 12345678,
@@ -14,7 +14,7 @@
             "pass_chave": "123456"
         },
         {
-            "id": 2,
+            "id": 1,
             "nome":"Bia",
             "morada":"Rua das Santas",
             "CC": 12345678,
@@ -27,7 +27,7 @@
             "pass_chave": "123456"
         },
         {
-            "id": 3,
+            "id": 2,
             "nome":"Carlos",
             "morada":"Rua dos Machos",
             "CC": 12345678,
@@ -40,7 +40,7 @@
             "pass_chave": "123456"
         },
         {
-            "id": 4,
+            "id": 3,
             "nome":"Vicente",
             "morada":"Rua dos Ateus",
             "CC": 12345678,

@@ -36,5 +36,12 @@
       "latitude": 41.551809,
       "longitude": -8.420345
     }
-  ]
+  ],
+  "zona": [
+    {
+      "cod_zona": "1",
+      "num_ruas": "2",
+      "preco": "2"
+    }
+   ]
 }

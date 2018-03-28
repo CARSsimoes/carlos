@@ -40,7 +40,15 @@
   "tipolugar": [
     {
       "cod_tipoLugar": 1,
-      "nome": "Rua das Chatas"
+      "nome": "Mobilidade Reduzida"
+    },
+    {
+      "cod_tipoLugar": 1,
+      "nome": "Mobilidade Reduzida"
+    },
+    {
+      "cod_tipoLugar": 1,
+      "nome": "Mobilidade Reduzida"
     }
    ]
 }

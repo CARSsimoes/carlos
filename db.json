@@ -43,12 +43,12 @@
       "nome": "Mobilidade Reduzida"
     },
     {
-      "cod_tipoLugar": 1,
-      "nome": "Mobilidade Reduzida"
+      "cod_tipoLugar": 2,
+      "nome": "Normal"
     },
     {
-      "cod_tipoLugar": 1,
-      "nome": "Mobilidade Reduzida"
+      "cod_tipoLugar": 3,
+      "nome": "Curta Duração"
     }
    ]
 }

@@ -1,65 +1,39 @@
 {
-    "clientes":[
-        {
-            "id": 0,
-            "nome":"Ana",
-            "morada":"Rua das Malucas",
-            "CC": 12345678,
-            "NIF": 123456789,
-            "email": "bia@gmail.com",
-            "telemovel": 123456789,
-            "data_nasc":"1994-02-02",
-            "genero": "F",
-            "username": "ritarita",
-            "pass_chave": "123456"
-        },
-        {
-            "id": 1,
-            "nome":"Bia",
-            "morada":"Rua das Santas",
-            "CC": 12345678,
-            "NIF": 123456789,
-            "email": "bia@gmail.com",
-            "telemovel": 123456789,
-            "data_nasc":"1993-02-02",
-            "genero": "F",
-            "username": "biabia",
-            "pass_chave": "123456"
-        },
-        {
-            "id": 2,
-            "nome":"Carlos",
-            "morada":"Rua dos Machos",
-            "CC": 12345678,
-            "NIF": 123456789,
-            "email": "bia@gmail.com",
-            "telemovel": 123456789,
-            "data_nasc":"1991-02-02",
-            "genero": "M",
-            "username": "carsandre",
-            "pass_chave": "123456"
-        },
-        {
-            "id": 3,
-            "nome":"Vicente",
-            "morada":"Rua dos Ateus",
-            "CC": 12345678,
-            "NIF": 123456789,
-            "email": "bia@gmail.com",
-            "telemovel": 123456789,
-            "data_nasc":"1990-02-02",
-            "genero": "M",
-            "username": "vicevice",
-            "pass_chave": "123456"
-        }
-       ],
-
-    "zonas":[
-        {
-            "id": "zona1",
-            "cod_zona": "zona1",
-            "num_ruas": "zona1",
-            "preco": "zona1"
-        }
-    ]
+  "clientes": [
+    {
+      "nome": "Ana",
+      "morada": "Rua das Malucas",
+      "CC": 12345678,
+      "NIF": 123456789,
+      "email": "bia@gmail.com",
+      "telemovel": 123456789,
+      "data_nasc": "1994-02-02",
+      "genero": "F",
+      "id": 1
+    }
+  ],
+  "utilizador": [
+    {
+      "username": "ritarita",
+      "pass_chave": "123456",
+      "id": 1
+    }
+  ],"rua": [
+    {
+      "cod_rua": "",
+      "cod_zona": "",
+      "nome": "",
+      "num_lugares": 2
+    }
+  ],
+  "lugar": [
+    {
+      "cod_lugar": 1,
+      "cod_rua": "Avenida Central",
+      "cod_tipoLugar": "Normal",
+      "estado": true,
+      "latitude": 41.551809,
+      "longitude": -8.420345
+    }
+  ]
 }

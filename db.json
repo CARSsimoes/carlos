@@ -21,16 +21,16 @@
   ],
   "rua": [
     {
-      "cod_rua": "",
-      "cod_zona": "",
-      "nome": "",
+      "cod_rua": 1,
+      "cod_zona": 1,
+      "nome": "Rua das Chatas",
       "num_lugares": 2
     }
   ],
   "lugar": [
     {
       "cod_lugar": 1,
-      "cod_rua": "Avenida Central",
+      "cod_rua": 1,
       "cod_tipoLugar": "Normal",
       "estado": true,
       "latitude": 41.551809,
@@ -39,9 +39,14 @@
   ],
   "zona": [
     {
-      "cod_zona": "1",
-      "num_ruas": "2",
-      "preco": "2"
+      "cod_zona": 1,
+      "num_ruas": 2,
+      "preco": 2
     }
-   ]
+   ],
+  "tipolugar": [
+    {
+      "cod_tipoLugar": 1,
+      "nome": "Rua das Chatas"
+    }
 }

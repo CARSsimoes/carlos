@@ -24,7 +24,7 @@
     {
       "cod_lugar": 1,
       "cod_rua": 1,
-      "cod_tipoLugar": "Normal",
+      "cod_tipoLugar": 1,
       "estado": true,
       "latitude": 41.551809,
       "longitude": -8.420345

@@ -127,59 +127,5 @@
       "tempo_minutos": "2",
       "id": 4
     }
-  ],
-  "tipolugar": [
-    {
-      "cod_tipoLugar": "1",
-      "nome": "Mobilidade Reduzida",
-      "id": 3
-    },
-    {
-      "cod_tipoLugar": "2",
-      "nome": "Normal",
-      "id": 2
-    },
-    {
-      "cod_tipoLugar": "3",
-      "nome": "Curta Duração",
-      "id": 1
-    },
-    {
-      "cod_tipoLugar": "4",
-      "nome": "VIP",
-      "id": 4
-    },
-    {
-      "cod_tipoLugar": "",
-      "nome": "2",
-      "id": 5
-    }
-  ],
-  "veiculo": [
-    {
-      "cod_cliente": 1,
-      "cod_veiculo": 1,
-      "matricula": "11-22-33",
-      "id": 1
-    },
-    {
-      "cod_cliente": 2,
-      "cod_veiculo": 2,
-      "matricula": "11-22-33",
-      "id": 2
-    },
-    {
-      "cod_cliente": 1,
-      "cod_veiculo": 3,
-      "matricula": "24-24-24",
-      "id": 3
-    }
-  ],
-    "contactos": [
-      {
-        "nome": "Maria",
-        "email": "euzinho@gmail.com",
-        "mensagem": "Duvidas e mais duvidas"
-      }
   ]
 }

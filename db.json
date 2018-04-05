@@ -1,6 +1,7 @@
 {
   "clientes": [
     {
+      "cod_cliente": 1,
       "nome": "Ana",
       "morada": "Rua das Malucas",
       "CC": 12345678,
@@ -9,15 +10,72 @@
       "telemovel": 123456789,
       "data_nasc": "1994-02-02",
       "genero": "F",
+      "saldo": 20,
       "id": 1
+    },
+    {
+      "nome": "sdfg",
+      "morada": "dfgb",
+      "CC": "dsfg",
+      "NIF": "sfdg",
+      "email": "dfsg",
+      "telemovel": "dsfg",
+      "data_nasc": "2000-03-01",
+      "genero": "M",
+      "saldo": 0,
+      "id": 2
+    },
+    {
+      "nome": "Carlos Simões",
+      "morada": "Avenida das Marias",
+      "CC": "12345678",
+      "NIF": "123456789",
+      "email": "carlosandrersimoes@gmail.com",
+      "telemovel": "926814219",
+      "data_nasc": "1992-12-10",
+      "genero": "M",
+      "saldo": 0,
+      "id": 3
+    }
+  ],
+  "utilizador": [
+    {
+      "username": "ritarita",
+      "pass_chave": "123456",
+      "id": 1
+    },
+    {
+      "username": "biabia",
+      "pass_chave": "asdadsad",
+      "id": 2
+    },
+    {
+      "username": "carlos1",
+      "pass_chave": "carlos1",
+      "id": 3
     }
   ],
   "rua": [
     {
       "cod_rua": 1,
-      "cod_zona": 1,
+      "cod_zona": "1",
       "nome": "Rua das Chatas",
-      "num_lugares": 2
+      "num_lugares": 2,
+      "id": 1
+    },
+    {
+      "cod_rua": "2",
+      "cod_zona": "",
+      "nome": "2",
+      "num_lugares": "2",
+      "id": 2
+    },
+    {
+      "cod_rua": "2",
+      "cod_zona": "",
+      "nome": "2",
+      "num_lugares": "2",
+      "id": 3
     }
   ],
   "lugar": [
@@ -27,47 +85,101 @@
       "cod_tipoLugar": 1,
       "estado": "true",
       "latitude": 41.551809,
-      "longitude": -8.420345
+      "longitude": -8.420345,
+      "id": 1
+    },
+    {
+      "cod_lugar": "2",
+      "cod_rua": "2",
+      "cod_tipoLugar": "2",
+      "estado": "",
+      "latitude": "2",
+      "longitude": "2",
+      "id": 2
     }
   ],
-  "tipolugar": [
-    {
-      "cod_tipoLugar": 1,
-      "nome": "Mobilidade Reduzida"
-    },
-    {
-      "cod_tipoLugar": 2,
-      "nome": "Normal"
-    },
-    {
-      "cod_tipoLugar": 3,
-      "nome": "Curta Duração"
-    }
-   ],
   "zona": [
     {
       "cod_zona": 1,
       "num_ruas": 1,
       "preco": 1,
-      "tempo_minutos": 1
+      "tempo_minutos": 1,
+      "id": 1
     },
     {
       "cod_zona": "2",
       "num_ruas": "2",
       "preco": "2",
-      "tempo_minutos": "2"
+      "tempo_minutos": "2",
+      "id": 2
     },
     {
       "cod_zona": "2",
       "num_ruas": "2",
       "preco": "2",
-      "tempo_minutos": "2"
+      "tempo_minutos": "2",
+      "id": 3
     },
     {
       "cod_zona": "2",
       "num_ruas": "2",
       "preco": "2",
-      "tempo_minutos": "2"
+      "tempo_minutos": "2",
+      "id": 4
     }
+  ],
+  "tipolugar": [
+    {
+      "cod_tipoLugar": "1",
+      "nome": "Mobilidade Reduzida",
+      "id": 3
+    },
+    {
+      "cod_tipoLugar": "2",
+      "nome": "Normal",
+      "id": 2
+    },
+    {
+      "cod_tipoLugar": "3",
+      "nome": "Curta Duração",
+      "id": 1
+    },
+    {
+      "cod_tipoLugar": "4",
+      "nome": "VIP",
+      "id": 4
+    },
+    {
+      "cod_tipoLugar": "",
+      "nome": "2",
+      "id": 5
+    }
+  ],
+  "veiculo": [
+    {
+      "cod_cliente": 1,
+      "cod_veiculo": 1,
+      "matricula": "11-22-33",
+      "id": 1
+    },
+    {
+      "cod_cliente": 2,
+      "cod_veiculo": 2,
+      "matricula": "11-22-33",
+      "id": 2
+    },
+    {
+      "cod_cliente": 1,
+      "cod_veiculo": 3,
+      "matricula": "24-24-24",
+      "id": 3
+    }
+  ],
+    "contactos": [
+      {
+        "nome": "Maria",
+        "email": "euzinho@gmail.com",
+        "mensagem": "Duvidas e mais duvidas"
+      }
   ]
 }

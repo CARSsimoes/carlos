@@ -44,21 +44,30 @@
       "nome": "Curta Duração"
     }
    ],
-  "veiculo": [
+  "zona": [
     {
-      "cod_veiculo": 1,
-      "cod_cliente": 1,
-      "matricula": "00-AA-00"
+      "cod_zona": 1,
+      "num_ruas": 1,
+      "preco": 1,
+      "tempo_minutos": 1
     },
     {
-      "cod_veiculo": 2,
-      "cod_cliente": 1,
-      "matricula": "00-AB-00"
+      "cod_zona": "2",
+      "num_ruas": "2",
+      "preco": "2",
+      "tempo_minutos": "2"
     },
     {
-      "cod_veiculo": 3,
-      "cod_cliente": 1,
-      "matricula": "00-BB-00"
+      "cod_zona": "2",
+      "num_ruas": "2",
+      "preco": "2",
+      "tempo_minutos": "2"
+    },
+    {
+      "cod_zona": "2",
+      "num_ruas": "2",
+      "preco": "2",
+      "tempo_minutos": "2"
     }
-  ]
+  ],
 }
